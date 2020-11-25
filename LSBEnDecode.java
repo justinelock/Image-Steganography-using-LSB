@@ -22,7 +22,7 @@ public class LSBEnDecode {
     public static int len = 0;
 
     public static void main(String[] args) {
-        String contentOfMessageFile = "班农战斗室第527期P4：如果如多米尼CEO在证词中说的那样，多米尼投票机使用了来自中国元器件，那么他们必须让我们知道到底谁是来自中国的供应商。 Bannon War Room EP527 P4: If as Dominion’s CEO said in the testimony that there are Chinese components used in Dominion mashion, they must let us know who exactly are the providers. ";
+        String contentOfMessageFile = "班农战斗室第527期P4 Bannon War Room EP527 P4: ";
 
         en(contentOfMessageFile);
         de();
